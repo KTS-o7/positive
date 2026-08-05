@@ -1,6 +1,7 @@
 /* Positive — renderer.
  *
- * Reads /data/stories.json, paints one long page, each story a section.
+ * Reads /data/latest.json (with the hand-written seed set as a safe fallback),
+ * then paints one long page, each story a section.
  * Reads/writes the theme preference from localStorage. Stays out of the way.
  *
  * No frameworks. No fetches beyond the JSON. No analytics.
@@ -120,10 +121,19 @@
     var toggle = $(".theme-toggle");
     if (toggle) toggle.addEventListener("click", toggleTheme);
 
-    fetch("data/stories.json", { cache: "no-cache" })
+    /* New editions publish to latest.json. Keep stories.json as a durable
+       fallback: a failed or interrupted publish should never blank the site. */
+    fetch("data/latest.json", { cache: "no-store" })
       .then(function (r) {
-        if (!r.ok) throw new Error("HTTP " + r.status);
+        if (!r.ok) throw new Error("latest HTTP " + r.status);
         return r.json();
+      })
+      .catch(function () {
+        return fetch("data/stories.json", { cache: "no-store" })
+          .then(function (r) {
+            if (!r.ok) throw new Error("fallback HTTP " + r.status);
+            return r.json();
+          });
       })
       .then(renderSite)
       .catch(function (e) { showError("Could not load stories: " + e.message); });

@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "note": "Each SEED is a ~150-word source narrative based on a dharmic / classical Indian source. The cron worker (build_edition.py) asks MiniMax-M3 to write a 5-paragraph piece IN THE VOICE of the Positive site, drawing on each seed. The seed is the input text M3 transforms; the output is the prose the reader sees. M3 cannot dump a planning preamble because it's being asked to do summarisation-with-style, the same pattern Daily Byte uses.",
+  "seeds": [
+    {
+      "id": "katha-chariot",
+      "source": "Hermes · after the Katha Upanishad",
+      "seed": "There is an old instruction from the Katha Upanishad that says the body is like a chariot, the senses are the horses, the mind is the reins, and the self is the rider. The rider who does not know the horses is at their mercy; the rider who knows them can guide them anywhere. The teaching is not about controlling the horses but about knowing which passenger is really in charge. Most people, the text says, are pulled by their horses and never meet the rider at all. The work of a life, in this image, is partly to find out who is driving."
+    },
+    {
+      "id": "gita-2-settled-sage",
+      "source": "Hermes · after the Bhagavad Gita, ch. 2",
+      "seed": "In the second chapter of the Bhagavad Gita, Krishna describes the settled sage — sthitaprajna, the one whose wisdom is steady. Such a person, he says, is not shaken by sorrow or pursued by pleasure. Desire and anger have fallen away from them the way a waterfowl shakes off a drop from a lotus leaf. They are not unconscious; they are simply full. A reader of this passage might wonder what such a person does in the morning. The text suggests they rise, they bathe, they eat, they work. The difference is that nothing sticks. The morning passes through them."
+    },
+    {
+      "id": "mundaka-two-birds",
+      "source": "Hermes · after the Mundaka Upanishad",
+      "seed": "The Mundaka Upanishad has a small, strange image: two birds, golden, sitting on the same branch. One eats the fruit of the tree, sweet or bitter, and is busy with the day. The other watches, and does not eat. The two are friends, and have been together a long time. The watcher is what you really are; the eater is what you think you are. The teaching is gentle: you can keep eating the fruit, you do not have to stop. But somewhere, behind you, the other bird is also there, noticing."
+    },
+    {
+      "id": "shabari-berries",
+      "source": "Hermes · after the Ramayana",
+      "seed": "In one version of the Ramayana, an old woman named Shabari has waited her whole life for the god Rama to come to her forest. She is poor, she has nothing to give. When he finally arrives, she offers him a fruit — a berry — that she has tasted first, to make sure it was sweet enough. A god could eat anything; she knew that. She tasted the berry anyway, because she wanted her gift to be worthy. The tradition remembers her for this small act of filtering — the kindness of checking your gift before giving it."
+    },
+    {
+      "id": "kunti-repeated-sorrow",
+      "source": "Hermes · after the Mahabharata",
+      "seed": "After the great war of the Mahabharata is over, Kunti asks Krishna for a strange boon: that he arrange for her to live through the same sorrow, again and again, for the rest of her life. Her sons are gone. Her husbands are gone. The kingdom is intact but emptied. She does not want relief. She says that only by tasting grief the same way, repeatedly, will she ever be able to recognise joy when it comes. The boon is not a punishment. It is a curriculum."
+    },
+    {
+      "id": "patanjali-abhyasa-vairagya",
+      "source": "Hermes · after Patanjali, sutra 1.12",
+      "seed": "The Yoga Sutras begin their practical instruction with a single short verse: abhyasa and vairagya — practice, and letting go. Neither alone is enough. Practice without letting go becomes grasping; letting go without practice becomes indifference. The two, held together, produce what Patanjali calls citta-vritti-nirodha — the quieting of the mind. He does not say this is easy or quick. He says it requires long, uninterrupted practice, and a steady willingness to put things down. The image is of two hands: one picking up, one releasing, both working at once."
+    },
+    {
+      "id": "ramana-who-am-i",
+      "source": "Hermes · after Ramana Maharshi",
+      "seed": "A woman once asked Ramana Maharshi, late in his life, whether the question 'Who am I?' had an answer. He said that the question itself was the answer, if it was held properly. The mind, he said, wants a conclusion, but the question is not a puzzle. It is more like a window you keep opening. Every time you ask it seriously, the room changes slightly. You are not looking for an answer you can carry in your pocket. You are looking for a way of standing in your own house."
+    },
+    {
+      "id": "tat-tvam-asi",
+      "source": "Hermes · after the Chandogya Upanishad",
+      "seed": "The Chandogya Upanishad contains a famous instruction, tat tvam asi — thou art that. It is repeated, sentence by sentence, between a teacher and a student who is slowly being shown that the self he has been looking for is not separate from the world. The student objects: I am not the wind, I am not the sun, I am not the sky. The teacher says: what is left, when all of those are removed? The student is silent. The instruction does not conclude. It is a softening."
+    },
+    {
+      "id": "saraha-moon-reflection",
+      "source": "Hermes · after Saraha",
+      "seed": "Saraha, the tantric poet, has an image: do not look for the moon in the reflection. The reflection can show you the shape of the moon, but if you reach into the water for it, you come up with nothing. Most people, he says, are chasing reflections — versions of what they want, copies, echoes — and missing the actual thing, which is right there. He does not say to give up. He says: look up. The moon has not gone anywhere. You have been kneeling in the water for a long time."
+    },
+    {
+      "id": "patanjali-1-33-rain-cloud",
+      "source": "Hermes · after Patanjali, sutra 1.33",
+      "seed": "In one of the most quoted verses of the Yoga Sutras, Patanjali says that by cultivating friendliness toward the happy, compassion toward the suffering, gladness toward the virtuous, and indifference toward the wicked, the mind becomes clear. He compares the result to a rain-cloud of dharma. The four moods are not abstractions; they are meant to be practiced in small daily moments. A barista whose coffee is well-made, a stranger whose day is hard, a friend's good news, a colleague's small meanness — these are the places the practice happens."
+    },
+    {
+      "id": "nagarjuna-two-truths",
+      "source": "Hermes · after Nagarjuna",
+      "seed": "Nagarjuna, the Buddhist philosopher, taught that everything has two truths: a relative truth, by which things appear and function in the world, and an ultimate truth, in which they do not really exist the way they appear. He did not say one was truer than the other. He said that a person who knows only relative truth is confused, and a person who knows only ultimate truth is unhelpful. The two are held together. The teaching is not about choosing one and abandoning the other; it is about not being trapped in either."
+    },
+    {
+      "id": "vivekananda-strength",
+      "source": "Hermes · after Vivekananda",
+      "seed": "Vivekananda told his students, often and directly, to be strong. Strength, for him, was not loudness. It was the ability to sit with what was difficult without flinching, to work without applause, to keep one's own counsel when the room was full of advice. He said that the highest strength a person could develop was the strength to be themselves in the presence of anyone. He told them: do not be afraid of being alone; that is where the work gets done. Then he laughed, and asked them to eat something."
+    },
+    {
+      "id": "buddha-sorrow-arrow",
+      "source": "Hermes · after the Buddha",
+      "seed": "A well-known Buddhist parable tells of a person shot by an arrow who, before allowing the wound to be treated, demands to know who shot it, what wood the bow was made of, what kind of feather the arrow had, and so on. The Buddha uses this to describe the habit of trying to answer every question before acting on what is actually here. The teaching is not against inquiry; it is against using inquiry as a way to postpone response. The arrow is already in you. There is useful knowledge, and there is delay wearing the name of knowledge."
+    },
+    {
+      "id": "upanishad-net-neti",
+      "source": "Hermes · after the Brihadaranyaka Upanishad",
+      "seed": "The Brihadaranyaka Upanishad uses a strange method of definition. To describe the self, it says what the self is not: neti, neti — not this, not this. It is not the body, it is not the mind, it is not the breath, it is not the senses. The instruction is to keep subtracting until there is nothing left to subtract. The text says that what remains, after all the not-thises are exhausted, is the self. The teaching has a gentleness to it; it is not asking you to find something new, only to put down what you thought you had."
+    },
+    {
+      "id": "kabir-simple-truth",
+      "source": "Hermes · after Kabir",
+      "seed": "Kabir, the poet-saint of fifteenth-century India, is famous for refusing both Hindu and Muslim orthodoxy. He said that the divine was not in the temple, not in the mosque, not in the scripture, not in the priest. He said it was in the sound of a weaver's shuttle and the cry of a child and the breath of an old woman fanning a fire. His poems are short and difficult. He was a weaver himself, and he sometimes used the loom as an image: the warp of life, the weft of breath, the cloth that is woven without the weaver ever seeing it whole."
+    },
+    {
+      "id": "gita-13-field-knower",
+      "source": "Hermes · after the Bhagavad Gita, ch. 13",
+      "seed": "In the thirteenth chapter of the Bhagavad Gita, Krishna distinguishes between kshetra, the field, and kshetrajna, the knower of the field. The field is everything — the body, the senses, the mind, the elements. The knower is the one who watches the field without being any of it. The chapter has twenty verses on the field and only a few on the knower. The structure is the point: there is a lot to know about the field, and almost nothing to know about the knower, because the knower is what is left when the field is named."
+    }
+  ]
+}
