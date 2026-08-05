@@ -166,20 +166,25 @@ VOICE_INSTRUCTION = (
     "- Plain modern English. No Sanskrit terms. No emoji.\n"
 )
 
+# System prompt sets a tight role: writer at a desk, not assistant.
+# Without this, M3 dumps task analysis into the content.
+SYSTEM_PROMPT = (
+    "You are a writer working on a daily short-story column. You will be "
+    "given a SEED — a small concrete scene or situation to write about. "
+    "You write the piece and nothing else. No preamble. No planning. No "
+    "restating the prompt. No 'The user wants...'. No 'Let me think...'. "
+    "No title-of-section labels. No notes to the editor. Just the title "
+    "and the 5 paragraphs of prose. Begin your output directly with the "
+    "title (3-7 words)."
+)
+
 USER_PROMPT = (
-    "Write ONE short piece for a quiet daily-positive site called "
-    "'Positive'. The piece should be exactly 5 paragraphs, 2-4 sentences "
-    "each. Total length ~250-400 words.\n\n"
-    "SEED (do not name in prose, but let it shape the piece):\n"
-    "{seed}\n\n"
+    "SEED: {seed}\n\n"
     "{voice}\n\n"
-    "Output rules:\n"
-    "- First line: the title (3-7 words, plain, evocative — NOT a question, "
-    "NOT a slogan, NOT a paraphrase of the seed).\n"
-    "- Then the 5 paragraphs, separated by a single blank line.\n"
-    "- No preamble, no commentary, no labels. Just the title + 5 paragraphs.\n"
-    "- Use real UTF-8 punctuation: em-dash —, not --; ellipsis … not ...; "
-    "curly quotes where natural. Real characters, not backslash escapes."
+    "Write ONE short piece. Exactly 5 paragraphs, 2-4 sentences each. "
+    "~250-400 words total.\n\n"
+    "Start your output with the title. Then the 5 paragraphs, separated "
+    "by a single blank line. Nothing else."
 )
 
 
@@ -201,7 +206,10 @@ def _llm_complete(prompt, max_tokens=900):
     url, key, model = _llm_endpoint()
     body = {
         "model": model,
-        "messages": [{"role": "user", "content": prompt}],
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": prompt},
+        ],
         "max_tokens": max_tokens,
         "temperature": 0.7,
         # M3 emits a <think>... block by default; this param keeps the
@@ -232,19 +240,32 @@ def _llm_complete(prompt, max_tokens=900):
 def parse_piece(text):
     """Split raw LLM output into (title, [paragraphs]). Strips any
     leaked <think>...</think> block (M3 sometimes still leaks despite
-    reasoning_split) and any leading labels."""
+    reasoning_split) and any leading labels / planning preamble."""
     import re
     text = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
-    text = re.sub(r"^(Title|Here'?s?|Here is).*?:", "", text, flags=re.IGNORECASE).strip()
+    text = re.sub(r"^(Title|Here'?s?|Here is|Note:|Output:)\s*", "", text, flags=re.IGNORECASE).strip()
     lines = [ln.rstrip() for ln in text.split("\n")]
     lines = [ln for ln in lines if ln.strip()]
     if not lines:
         raise RuntimeError("LLM returned empty prose")
     title = lines[0].strip().strip("\"'`").strip()
     title = re.sub(r"^\*+|\*+$", "", title).strip()
+    # Heuristic: if the "title" is too long, it's probably M3 dumping
+    # the prompt rephrased. Discard the first paragraph if so.
+    if len(title) > 120:
+        # Treat the whole thing as one block and skip the long first line
+        lines = lines[1:]
+        # Try to find the first short-ish line as title
+        for i, ln in enumerate(lines):
+            if 3 <= len(ln.split()) <= 12:
+                title = ln.strip().strip("\"'`").strip()
+                lines = lines[i+1:]
+                break
+        else:
+            title = "A Quiet Piece"
     body = []
     buf = []
-    for ln in lines[1:]:
+    for ln in lines:
         if ln.strip() == "":
             if buf:
                 body.append(" ".join(buf).strip())
