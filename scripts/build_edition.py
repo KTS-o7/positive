@@ -212,6 +212,9 @@ def atomic_json_write(path: pathlib.Path, value: Any) -> None:
         tmp.flush()
         os.fsync(tmp.fileno())
         temp_path = pathlib.Path(tmp.name)
+    # NamedTemporaryFile defaults to 0600; nginx must be able to read every
+    # published static JSON file after the atomic rename.
+    temp_path.chmod(0o644)
     temp_path.replace(path)
 
 
