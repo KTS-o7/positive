@@ -1,76 +1,76 @@
 {
   "site": {
     "name": "Positive",
-    "tagline": "Five small stories, gently told.",
+    "tagline": "Small stories from old wisdom.",
     "base_url": "https://positive.shenthar.me",
     "repo": "https://github.com/KTS-o7/positive",
-    "intro": "A handful of short pieces from Hermes, written on slow evenings. No notifications, no streaks, no list to maintain. Open the page, read one, close the tab. That is the whole thing."
+    "intro": "Five small retellings from India’s living story traditions. Read one, then return to your day a little lighter."
   },
   "edition_date": "2026-08-06",
   "stories": [
     {
-      "id": "the-empty-glass-on-the-table",
-      "title": "The Empty Glass on the Table",
-      "source": "Hermes · after Nagarjuna",
+      "id": "the-golden-deer-s-gift",
+      "title": "The Golden Deer's Gift",
+      "source": "Jataka Tales · Banyan Deer Jataka",
+      "source_url": "https://www.gutenberg.org/ebooks/51880",
+      "source_id": "jataka-banyan-deer-saves-doe",
       "published_at": "2026-08-06",
       "body": [
-        "Anwen set the kettle down and noticed the glass her mother used to drink from, still on the kitchen table. It had been there since the morning, holding only a faint smear of lemon at the bottom. She thought about washing it, then about throwing it away, then about leaving it where it was. The light through the window made the glass throw a small, clear shadow on the wood, and she watched the shadow for a moment without deciding anything.",
-        "By Tuesday she had cleaned around the glass for a whole week without touching it. She wiped the crumbs away, lifted it to sweep the crumbs beneath, and set it back in the same place. Her sister called from another city and asked, kindly, whether she had put the things away yet, and Anwen said she was getting to it. After she hung up, she stood in the kitchen with the phone still warm in her hand and admitted to herself that she did not want to get to it. She also knew, just as clearly, that she did not want to keep it.",
-        "On Thursday she tried to think about it the way she had once heard someone describe a problem, by separating the thing-in-itself from the thing-as-she-met-it. The glass was a glass. It had weight, a rim, a small chip near the base. It also was the glass her mother had lifted on the last evening she could lift anything, and the two descriptions kept leaning against each other in her mind, neither one letting go of the other. She found that naming the parts did not help her act, and pretending the parts were not there did not help her feel.",
-        "On Saturday her niece came to visit and drank orange juice from the glass without asking where it came from. The child set it back on the table, slightly off-center, and left a small print of her small hand on the side. Anwen did not correct the position or wipe the print. She sat across from her niece and listened to the story of a school project about tadpoles, and at some point she realized that the glass had changed rooms without her noticing. It had moved from the kitchen to the conversation, and she had moved with it.",
-        "That evening, after the niece had gone home with her mother, Anwen washed the glass and dried it and put it in the cupboard behind the good plates. She did not decide that she had finished anything, or that she had given anything up. She closed the cupboard, and the kitchen was quiet, and outside a car passed with its headlights painting a brief, ordinary light across the window."
+        "In the royal hunting park, deer fled in terror each day as the king's huntsmen rode out for sport. At last the golden Banyan Deer stepped forward and asked that the herd be spared the endless chase, offering instead that one deer come willingly each day. The king, struck by such calm courage, agreed.",
+        "When the lot fell to a young pregnant doe, trembling and heavy with her fawn, the Banyan Deer went in her place without hesitation. She walked toward the hunters, her coat shining in the morning light, ready to give her life so another might keep hers.",
+        "The king saw the golden Deer approach and understood the sacrifice she had made for a stranger. His heart softened, and he set free not only her but every deer in the park and all the animals that lived among them. The hunting grounds became a sanctuary, and fear turned into protection."
       ]
     },
     {
-      "id": "the-apartment-after-moving-out",
-      "title": "The Apartment After Moving Out",
-      "source": "Hermes · after the Brihadaranyaka Upanishad",
+      "id": "dhruva-s-steady-heart",
+      "title": "Dhruva's Steady Heart",
+      "source": "Bhagavata Purana · Book 4",
+      "source_url": "https://www.sacred-texts.com/hin/sbh/index.htm",
+      "source_id": "bhagavata-dhruva-finds-steadiness",
       "published_at": "2026-08-06",
       "body": [
-        "By the time Maya came back for the lamp, it was already evening in late October, and the hallways of the old building smelled like dust and someone else's cooking. She had lived here for six years, then somewhere else for four, and now she was divorced, in a new rental across the city, and discovering how many things she had kept that did not belong to the life she was actually building. The super had let her in with a look that was almost sympathetic. The keys, he said, sounded heavier than he remembered.",
-        "She walked through the living room first, noting the patch of sunlight where her reading chair used to sit, the nail holes above the mantel that no longer held a frame. The kitchen still had the faint smell of the espresso machine she had given away in the spring. She set the box down near the door and started with the easy things: the winter coats she had forgotten, the umbrella that was not hers, the coffee table book on Portuguese tiles she had bought with her ex at a market in Lisbon when everything still felt possible.",
-        "The harder part was the closet in the second bedroom, the one she had used as an office during the last year of her marriage. There were file folders labeled by year, a stapler that worked perfectly, a box of pens she had bought in bulk and never opened. She touched each thing and tried to remember why she had thought it mattered. The stapler she left. The pens she took. The folders she opened one at a time, reading the labels, and most of them meant nothing to her now, the names of old projects, old worries, old versions of herself who had sat in this room and believed the future was a straight line.",
-        "She carried things out in two trips, and on the second trip she noticed the bookshelf in the hallway, the one her ex had built from a kit on a Saturday when they were still stubborn about staying together. She had meant to bring it back to the new apartment but now she saw that the new apartment was small and warm and did not need a tall wooden thing in the hall. She looked at it for a long time. Then she did not look at it again, and she closed the door behind her, and the super took her keys with a nod that asked nothing.",
-        "Outside, the street was quiet, and the box she carried was lighter than the one she had brought in. She walked toward the bus stop, and the air smelled like leaves and cold water and the faint, distant sweetness of someone baking bread. By the time she reached the corner, the things she had decided not to take were already beginning to belong to the apartment, and the apartment was beginning to belong to the next person, and she was beginning to belong to the evening, which asked nothing of her except that she keep walking."
+        "Young prince Dhruva wandered the forest with a wounded heart, for his father's lap had been refused him. His mother did not promise a quick comfort, but gently pointed him toward the One who sees every longing.",
+        "In the quiet woods, the sage Narada guided the boy into steady remembrance. Breath after breath, his hurt began to loosen, and Dhruva practiced presence until his small frame grew calm and sure.",
+        "Then Vishnu appeared before him in radiant form, and the child's anger melted into wonder. Dhruva returned home ready to rule with patience, his heart steadied by the sight of the divine."
       ]
     },
     {
-      "id": "the-coachman-who-forgot-his-hands",
-      "title": "The Coachman Who Forgot His Hands",
-      "source": "Hermes · after the Katha Upanishad",
+      "id": "the-deer-who-carried-hope",
+      "title": "The Deer Who Carried Hope",
+      "source": "Jataka Tales · Ruru Deer Jataka",
+      "source_url": "https://www.gutenberg.org/ebooks/51880",
+      "source_id": "jataka-ruru-deer-saves-man",
       "published_at": "2026-08-06",
       "body": [
-        "For thirty-one years, Hector drove the number six omnibus along the same cobbled loop through the old part of town. He knew every loose flagstone, every chimney that dripped into the street, every dog that liked to sleep on the corner of Hawthorn Lane. The horses knew him too, in their own way, and on the good mornings he could feel them listening beneath him.",
-        "But there were other mornings, the ones he did not like to remember, when the two bays would take the bit between their teeth and bolt past the post office, past the bakery, past the stop where old Mrs. Lacey liked to wave her glove. He would come back to himself somewhere around the iron bridge with the brake lever aching in his palm and the passengers white-faced behind him. They never complained. He never explained.",
-        "After one such morning he began to walk the long way home, past the canal where the light lay flat on the water. He thought about his father, also a coachman, who had once told him that a driver was not the man who pulled hardest but the man who knew which creature in the team was really in charge. Hector had laughed at the time. He did not laugh now.",
-        "In the spring he changed small things. He shortened the rein by a finger's width. He spoke to the offside horse before they reached the steep corner. He learned the rhythm of their ears, the way the near one's left flicked when she was about to shy. He was not gentler exactly, only more awake. The bays grew quieter. Mrs. Lacey waved longer.",
-        "On the last warm afternoon of the route's last week, before the new motor buses took over, Hector sat a moment longer on the box. The horses stood easy, the passengers murmured, and for the first time he could remember he did not feel carried at all, but carrying. He clicked his tongue once, soft, and they moved forward together into the long evening street."
+        "Along a river in an ancient woodland, a radiant Ruru Deer spotted a man struggling in the water. Without a thought for his own safety, the deer waded in and carried the drowning stranger to the bank on his gentle back. Grateful and trembling, the man swore he would never betray the place where the deer had chosen to rest and hide among the trees.",
+        "But temptation is a quiet thief, and when word of a reward spread through the kingdom, the man broke his promise. He led the king and his hunters toward the woods, intending to reveal the deer. Before the hunt could begin, Ruru stepped forward calmly into the open, and with steady eyes told the king exactly how he had once saved the very man who now betrayed him.",
+        "The king listened, and a hush fell over the hunting party. Ashamed, the man fell to his knees and confessed his greed, while the ruler's heart softened toward the deer's mercy. From that day forward, the king declared that no hunter in his realm would raise a bow against Ruru, and the radiant deer wandered the forests in safety, his quiet kindness answered by a kingdom's gratitude."
       ]
     },
     {
-      "id": "the-berry-she-tasted-first",
-      "title": "The Berry She Tasted First",
-      "source": "Hermes · after the Ramayana",
+      "id": "rantideva-s-cup-of-water",
+      "title": "Rantideva's Cup of Water",
+      "source": "Bhagavata Purana · Book 9",
+      "source_url": "https://www.sacred-texts.com/hin/sbh/index.htm",
+      "source_id": "bhagavata-rantideva-shares-water",
       "published_at": "2026-08-06",
       "body": [
-        "On a morning so still that the lake had forgotten how to ripple, an old woman named Mani walked the thorny path behind her hut and looked for berries. Her hut leaned against a hillside of dry grass, and her hands, spotted and slow, knew the bushes by touch. She had been waiting for her grandson to visit for weeks, and the bush near the broken wall had finally turned the right shade of dark.",
-        "She picked a handful into the chipped enamel bowl she kept for cooking. The berries were small, almost black, with a faint dusty bloom on their skins. Years ago she would have eaten one straight from the bush and laughed at the sourness. Now she sat on the low stone step and lifted each berry carefully, turning it between her thumb and forefinger as if reading something written on it.",
-        "The first two were sweet enough, with that little rush of dark juice that meant the crop had ripened well. The third was sharp, almost medicinal, and she set it aside without thinking. The fourth was soft and a little bruised; she pinched it gently and felt the skin give. She set that aside too, and laid the two rejects on the stone where the sparrows would find them.",
-        "By the time her grandson came up the path in his dusty school shoes, the bowl on the step held only the berries she had chosen. He was hungry and hot, and he did not ask why there were no others. He took one and bit into it, and the taste was so clean and full that he closed his eyes for a second before saying thank you. Mani watched him and felt the small, private pleasure of a thing done right.",
-        "Later, when he had gone, she washed the bowl and set it on the step to dry. The rejected berries had disappeared into the grass. The afternoon came on slowly, the way afternoons do in places where nothing much is expected, and she sat for a while with her hands in her lap, remembering how a gift, even a small one, was something you prepared."
+        "After many days of fasting, King Rantideva and his family in their hungry kingdom were overjoyed when food and water finally arrived. Before they could touch a morsel, weary guests began appearing at the door, one after another. With each arrival, the king gave away the meal prepared for himself.",
+        "At last, only a single cup of water remained. Just then, a thirsty traveler asked for a drink, and Rantideva, parched himself, offered it with quiet joy. He chose another's relief over his own comfort, surrendering the last refreshment without a moment's hesitation.",
+        "The visitors then revealed themselves as divine beings, radiant and moved by his generosity. Their presence blessed his home, and the king's heart swelled with gladness, for compassion given freely had brought heaven itself to his threshold."
       ]
     },
     {
-      "id": "the-room-that-kept-changing",
-      "title": "The Room That Kept Changing",
-      "source": "Hermes · after Ramana Maharshi",
+      "id": "gajendra-s-lotus-and-the-swift-rescue",
+      "title": "Gajendra's Lotus and the Swift Rescue",
+      "source": "Bhagavata Purana · Book 8",
+      "source_url": "https://www.sacred-texts.com/hin/sbh/index.htm",
+      "source_id": "bhagavata-gajendra-calls-for-help",
       "published_at": "2026-08-06",
       "body": [
-        "On a Tuesday in October, Mira carried three grocery bags up the stairs to her apartment and stopped on the landing because the door was already open. She had not left it open. She set the bags down quietly and listened. The kitchen faucet was dripping the way it always did when the handle was not quite turned. The afternoon light fell across the linoleum in the same long pale stripe it had every day for six years. Nothing was missing. Nothing was wrong. She simply had the feeling, as she stepped inside, that the apartment had been thinking about her while she was gone.",
-        "She put the milk in the refrigerator and stood there with the door open longer than she needed to. The hum of the fridge was familiar. The magnet from her sister's trip to the coast was still holding up a grocery list she had written last week in blue pen. She closed the door and walked into the front room. The rug was still crooked. The book she had been reading was still face down on the cushion, spine bent backward like a small animal waiting. She did not pick it up. She sat on the arm of the couch and looked at the room as though she were a guest in it.",
-        "The question had come to her that morning on the bus, uninvited, and had not left. It was the kind of question that did not seem to want an answer so much as a place to sit. She had tried the usual replies while the bus lurched through traffic. She was a woman who worked at a clinic and paid her rent on time. She was the daughter of people who were no longer together. She was tired. None of these were wrong, and none of them finished the sentence. By the time she reached her stop, she had given up trying to solve it and started trying to hold it instead, the way you might hold a cup of something too hot to drink and too good to set down.",
-        "The light in the front room shifted. A cloud moved, or did not. She noticed that the room had rearranged itself around her without her permission, the way rooms do when you really look at them. The painting her mother had given her, which she had passed a thousand times, seemed for a moment to be a window instead of a picture. The window behind it seemed for a moment to be a painting. She laughed, a small surprised sound, and the laugh made the room ordinary again, which was fine. The question was still there, resting on her like a hand on a shoulder. She did not mind its weight.",
-        "Later, after she had put the groceries away and boiled water for tea, she went back to the couch and sat properly in it, not on the arm. The book was where she had left it. She picked it up and closed it gently and set it on the table. Outside, someone was pulling a trash bin down the sidewalk. The question did not answer, and she did not expect it to. She sipped the tea and watched the light move slowly across the floor, and felt, for no reason she could name, that she was exactly where she was supposed to be standing."
+        "In a mountain lake, Gajendra, the elephant king, came to bathe as he often did. This time a crocodile gripped his leg, and no thrashing of his great body could break free.",
+        "After long struggle, memory surfaced from an earlier life, a prayer he once knew. With his trunk he lifted a lotus above the water and offered it to Vishnu, naming the Lord with a clear, trusting heart.",
+        "Vishnu came swiftly through the sky, severed the crocodile's jaw, and drew Gajendra to safety. He accepted the single lotus, and panic gave way to peace."
       ]
     }
   ]
