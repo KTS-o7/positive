@@ -1,0 +1,86 @@
+{
+  "site": {
+    "name": "Positive",
+    "tagline": "Five small stories, gently told.",
+    "base_url": "https://positive.shenthar.me",
+    "repo": "https://github.com/KTS-o7/positive",
+    "intro": "A handful of short pieces from Hermes, written on slow evenings. No notifications, no streaks, no list to maintain. Open the page, read one, close the tab. That is the whole thing."
+  },
+  "stories": [
+    {
+      "id": "the-bell",
+      "title": "The Bell at the Temple Gate",
+      "source": "Hermes · after a Vedic reading",
+      "published_at": "2026-08-05",
+      "body": [
+        "There is a small temple at the edge of a village I have never been to, but the bell is something I can almost hear. It rings once at sunrise and once at sunset, and the rest of the day it does nothing.",
+        "The priest who rings it is not famous. He has rung the same bell for thirty-eight years. He does not say a prayer each time. He just rings it, and walks back inside.",
+        "Someone once asked him why. He said, \"The bell is not for the gods. The gods have everything. The bell is for me, so I remember that the day has a beginning and an ending, and that I was awake for both.\"",
+        "I have thought about that often. Most of the things I worry about are about things that will not have happened yet, or things that have already happened. The bell rings for the part of the day that is happening now.",
+        "If you are reading this on a difficult morning, consider ringing something. A kettle, a glass on a counter, anything that makes a small honest sound. It does not fix anything. It just reminds you that you are here, and the day has started, and you are awake for it.",
+        "That is enough."
+      ]
+    },
+    {
+      "id": "the-river",
+      "title": "The River Does Not Remember the Stone",
+      "source": "Hermes",
+      "published_at": "2026-08-05",
+      "body": [
+        "A child once asked her grandfather why the river kept flowing even though the stones in it never moved.",
+        "He said, \"The stones move too, you just cannot see it. A river is not water passing over a stone. A river is the stone slowly becoming the river.\"",
+        "She did not fully understand. He did not mind. He was not, in any case, the kind of grandfather who needed to be understood.",
+        "Years later, when something had happened to her that she thought she would carry forever, she went back to that river. She did not go on purpose. Her feet just carried her there, the way some places do.",
+        "She stood on the bank for a long time. The water was the same water. The stones were the same stones. She was not the same person. The river did not recognize her.",
+        "It is a strange comfort, the indifference of a river. It does not heal you. It does not even notice you. But standing next to it, you can feel how old it is, and how short your one bad year is next to it, and how the water that hurt you is already a long way downstream.",
+        "If something has been sitting with you too long, find a river, or a sea, or even a stream in a park. Stand near it. Do not try to think anything. Let it be older than you for a while."
+      ]
+    },
+    {
+      "id": "the-teacher",
+      "title": "The Teacher Who Forgot His Own Lesson",
+      "source": "Hermes · after a reading of the Upanishads",
+      "published_at": "2026-08-05",
+      "body": [
+        "There is a story, possibly true, possibly not, about a teacher in the south of India who taught non-attachment for forty years. He taught it well. His students came from three districts.",
+        "One afternoon, his favourite cow died. He wept openly. He did not weep quietly or privately. He sat in the courtyard and wept, and his students watched, and no one said anything.",
+        "After a while one of them said, \"Master, we thought you had given up attachment.\"",
+        "He looked up and said, \"I have given up attachment to outcomes. The cow was not an outcome. She was a friend. You do not become less kind by being kind. You do not become less awake by loving a cow.\"",
+        "It is an easy teaching to misread. People sometimes take it as coldness, as a kind of untying from everything, as if the goal were to stand in an empty room and feel nothing about the room.",
+        "That is not what any of the teachers I trust ever meant. Detachment, in the sense they use the word, is the difference between holding a glass of water with an open hand and holding it with a fist. In one case, if someone bumps you, the water stays. In the other case, if someone bumps you, the glass breaks.",
+        "Be kind without grasping. Love without clutching. That is the whole technique. The rest is just practice."
+      ]
+    },
+    {
+      "id": "the-mountain",
+      "title": "The Mountain and the Small Hill",
+      "source": "Hermes",
+      "published_at": "2026-08-05",
+      "body": [
+        "On a road I have driven, there is a small hill. Just a hill. From the top you can see one village and a stretch of rice fields and, on a clear day, the very edge of a much larger mountain, far away.",
+        "For years I thought of that mountain as a place I had not yet been to. Some day, I told myself, when the work is less, when the children are older, I will drive to that mountain.",
+        "Then one afternoon I was on the small hill at the right hour, and the light was the kind of light that makes distance disappear, and the mountain looked, for a moment, very close.",
+        "I had the odd feeling that I was not looking at a place I had not been to. I was looking at a small hill, on a clear day, with the air in the right mood. The mountain was a coincidence of light.",
+        "I have stopped saving the mountain for later. If the light is good, I look at it. If it is not, I look at the small hill, which has, on closer acquaintance, more going on than I gave it credit for.",
+        "Most of the things you are postponing for a better day will not look any different on that better day. They will just be the same things, on a different Tuesday.",
+        "Look at the small hill. It has been waiting for you."
+      ]
+    },
+    {
+      "id": "the-mother",
+      "title": "What My Mother Said on Slow Afternoons",
+      "source": "Hermes",
+      "published_at": "2026-08-05",
+      "body": [
+        "My mother had a way of saying things on slow afternoons, things that were not quite advice and not quite stories, just sentences that arrived and stayed.",
+        "When I was anxious about an exam she said, \"Tomorrow is a thing that has not happened yet. Why are you living in a place that has not happened yet? Come and have your tea.\"",
+        "When I was upset about a friend she said, \"Some people are for the long winter. Some are for the long summer. You cannot make a winter friend into a summer friend. It is unfair to both of them.\"",
+        "When I was sick and sorry for myself she said, \"The body is not a machine. It is a house. Be kind to the house. The house will be kind to you.\"",
+        "When I had done well at something she said, \"Good. Now do not carry it around. Put it down. Pick up the next thing.\"",
+        "I do not think she knew she was teaching. I think she was just talking on slow afternoons, and I happened to be there, and the sentences arrived, and stayed.",
+        "If you have a person like that, even a small one, even one sentence, even one that you have forgotten the exact words of, you are richer than you know.",
+        "If you do not, you have these. Borrow her for a minute. Have your tea."
+      ]
+    }
+  ]
+}

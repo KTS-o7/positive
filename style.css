@@ -1,0 +1,90 @@
+/* Positive — soft paper edition, with optional night mode.
+
+   Two themes via [data-theme="dark"] on <html>. The toggle in the chrome
+   bar just flips the attribute and persists to localStorage.
+
+   Design goals:
+   - Long-form prose, generous line-height, serif body
+   - No chrome, no nav, no "stories" count, no UI noise
+   - One story at a time, very little between them
+   - Light by default, dark as a quiet alternative
+*/
+:root,
+:root[data-theme="light"] {
+  --paper:#fbf6ec; --paper2:#f6efe0; --rule:#e1d6b9; --ink:#2b2620;
+  --mut:#5b5247; --mut2:#8a8174; --ac:#a85a2a; --ln:#7a3a1a;
+  --accent-soft:rgba(168,90,42,.08);
+  --shadow:0 1px 0 rgba(43,38,32,.04);
+}
+:root[data-theme="dark"] {
+  --paper:#1a1612; --paper2:#221c17; --rule:#3a3128; --ink:#f0e8d8;
+  --mut:#c8bca6; --mut2:#9a8e7a; --ac:#d9a064; --ln:#e6c089;
+  --accent-soft:rgba(217,160,100,.10);
+  --shadow:0 1px 0 rgba(0,0,0,.4);
+}
+
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);
+font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+font-size:18px;line-height:1.7;font-weight:400;
+-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;
+transition:background .25s ease,color .25s ease}
+a{color:var(--ln);text-decoration:none}
+a:hover{text-decoration:underline}
+button{cursor:pointer;font:inherit;background:none;border:none;color:inherit}
+::selection{background:var(--accent-soft);color:var(--ink)}
+
+.wrap{max-width:680px;margin:0 auto;padding:0 28px}
+
+/* top chrome — minimal */
+.chrome{position:sticky;top:0;z-index:50;background:var(--paper);
+border-bottom:1px solid var(--rule);backdrop-filter:blur(8px)}
+.chrome-in{max-width:680px;margin:0 auto;padding:10px 28px;
+display:flex;align-items:center;justify-content:space-between;gap:12px;
+font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--mut2)}
+.chrome .left a{color:var(--mut);font-weight:600}
+.chrome .left a:hover{color:var(--ln);text-decoration:none}
+.theme-toggle{display:inline-flex;align-items:center;gap:6px;padding:4px 10px;
+border:1px solid var(--rule);border-radius:14px;color:var(--mut2);
+font-size:10px;letter-spacing:.14em;transition:background .2s,color .2s,border-color .2s}
+.theme-toggle:hover{color:var(--ink);border-color:var(--mut2);background:var(--accent-soft)}
+.theme-toggle .dot{display:inline-block;width:7px;height:7px;border-radius:50%;
+background:var(--ac);transition:transform .25s ease}
+:root[data-theme="dark"] .theme-toggle .dot{transform:translateX(8px)}
+
+/* masthead */
+.mast{text-align:center;padding:64px 28px 36px}
+.mast h1{margin:0;font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+font-weight:600;font-size:clamp(38px,7vw,56px);letter-spacing:.5px;line-height:1.1;
+color:var(--ink)}
+.mast h1 .dot{color:var(--ac)}
+.mast .tag{color:var(--mut);font-style:italic;font-size:17px;margin-top:14px;
+max-width:520px;margin-left:auto;margin-right:auto;line-height:1.6}
+.mast .intro{color:var(--mut2);font-size:13px;margin-top:28px;letter-spacing:.04em;
+font-style:normal;max-width:520px;margin-left:auto;margin-right:auto;line-height:1.7}
+
+/* story blocks */
+.story{padding:48px 0 12px;border-top:1px solid var(--rule)}
+.story:first-of-type{border-top:none;padding-top:24px}
+.story .meta{font-size:11px;letter-spacing:.18em;text-transform:uppercase;
+color:var(--mut2);margin-bottom:18px;display:flex;flex-wrap:wrap;gap:14px;align-items:center}
+.story .meta .src{color:var(--mut);font-style:italic;text-transform:none;
+letter-spacing:.04em;font-size:12px;font-family:"Iowan Old Style",Palatino,Georgia,serif}
+.story h2{margin:0 0 22px;font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+font-weight:600;font-size:clamp(26px,4.4vw,34px);line-height:1.2;letter-spacing:.2px;color:var(--ink)}
+.story .body p{margin:0 0 1.2em;font-size:18px;line-height:1.75;color:var(--ink)}
+.story .body p:first-of-type::first-letter{font-size:1.05em;font-weight:600;color:var(--ac)}
+.story .body p:last-of-type{margin-bottom:0}
+
+/* footer */
+.foot{padding:60px 28px 80px;border-top:1px solid var(--rule);margin-top:48px;
+font-size:12px;color:var(--mut2);text-align:center;letter-spacing:.06em;line-height:1.8}
+.foot a{color:var(--ln)}
+
+/* responsive */
+@media (max-width:540px){
+  body{font-size:17px}
+  .story .body p{font-size:17px}
+  .mast{padding-top:48px}
+}
