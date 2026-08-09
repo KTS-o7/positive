@@ -99,6 +99,31 @@
       "id": "mahabharata-arjuna-pashupata",
       "edition": "2026-08-09",
       "source": "Mahabharata — Vana Parva, Kisari Mohan Ganguli translation"
+    },
+    {
+      "id": "ramayana-vibhishana-refuge",
+      "edition": "2026-08-10",
+      "source": "Valmiki Ramayana — Yuddha Kanda (Gita Press translation)"
+    },
+    {
+      "id": "ramayana-sugriva-crowned",
+      "edition": "2026-08-10",
+      "source": "Valmiki Ramayana — Kishkindha Kanda (Gita Press translation)"
+    },
+    {
+      "id": "bhakti-narsinh-mehta-hundi",
+      "edition": "2026-08-10",
+      "source": "Narsinh Mehta hagiographic tradition"
+    },
+    {
+      "id": "mahabharata-bhima-meets-hanuman",
+      "edition": "2026-08-10",
+      "source": "Mahabharata — Vana Parva, Kisari Mohan Ganguli translation"
+    },
+    {
+      "id": "ramayana-hanuman-finds-sita",
+      "edition": "2026-08-10",
+      "source": "Ramayana · Sundara Kanda"
     }
   ]
 }
