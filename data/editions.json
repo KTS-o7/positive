@@ -1,0 +1,992 @@
+[
+  {
+    "date": "2026-09-27",
+    "stories": [
+      {
+        "id": "mandodari-s-plea-at-lanka",
+        "title": "Mandodari's Plea at Lanka",
+        "source": "Valmiki Ramayana — Yuddha Kanda, Sarga 17 (Gita Press translation)"
+      },
+      {
+        "id": "gentle-healing-for-the-raja-s-daughters",
+        "title": "Gentle Healing for the Raja's Daughters",
+        "source": "More Jataka Tales — Ellen C. Babbitt (1922), Project Gutenberg"
+      },
+      {
+        "id": "devahuti-finds-freedom-at-bindu-sarovara",
+        "title": "Devahuti Finds Freedom at Bindu-sarovara",
+        "source": "Srimad-Bhagavata Purana — Canto 3, Chapters 25–33 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "the-gift-that-carried-him-home",
+        "title": "The Gift That Carried Him Home",
+        "source": "The Jataka — Vol. V, Sankha Jataka (No. 442), E. B. Cowell ed., public domain"
+      },
+      {
+        "id": "the-moon-guards-the-lake",
+        "title": "The Moon Guards the Lake",
+        "source": "Panchatantra — Tantra 1, Mitra Bheda (Ryder 1925, Internet Archive)"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "stories": [
+      {
+        "id": "guha-s-lamp-by-the-ganga",
+        "title": "Guha's Lamp by the Ganga",
+        "source": "Valmiki Ramayana — Ayodhya Kanda, Sarga 113"
+      },
+      {
+        "id": "a-boy-remembering-vishnu-in-the-flames",
+        "title": "A Boy Remembering Vishnu in the Flames",
+        "source": "Srimad-Bhagavata Purana — Canto 7, Chapters 8–9 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "the-lad-who-saved-the-serpents",
+        "title": "The Lad Who Saved the Serpents",
+        "source": "Mahabharata — Adi Parva, Astika Parva (Kisari Mohan Ganguli translation)"
+      },
+      {
+        "id": "tara-s-plea-before-the-trees-of-kishkindha",
+        "title": "Tara's Plea Before the Trees of Kishkindha",
+        "source": "Valmiki Ramayana — Kishkindha Kanda, Sarga 18 (Gita Press translation)"
+      },
+      {
+        "id": "rest-and-light-at-pampa-s-door",
+        "title": "Rest and Light at Pampa's Door",
+        "source": "Valmiki Ramayana — Kishkindha Kanda, Sarga 66"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "stories": [
+      {
+        "id": "the-goatherd-s-daughter-becomes-queen",
+        "title": "The Goatherd's Daughter Becomes Queen",
+        "source": "Jataka Tales — Ellen C. Babbitt (1912), Project Gutenberg"
+      },
+      {
+        "id": "guarding-the-doorstep-in-vraja",
+        "title": "Guarding the Doorstep in Vraja",
+        "source": "Srimad-Bhagavatam — Canto 10, Chapter 11 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "a-forest-throne-of-devotion",
+        "title": "A Forest Throne of Devotion",
+        "source": "Srimad-Bhagavatam — Canto 9, Chapter 14 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "a-daughter-s-child-lifts-the-king",
+        "title": "A Daughter's Child Lifts the King",
+        "source": "Srimad-Bhagavatam — Canto 9, Chapter 17 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "the-tortoise-who-spoke-too-soon",
+        "title": "The Tortoise Who Spoke Too Soon",
+        "source": "Panchatantra — Tantra 1, Mitrabheda (Ryder 1925, Internet Archive)"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "stories": [
+      {
+        "id": "one-grain-at-a-time",
+        "title": "One Grain at a Time",
+        "source": "Panchatantra — Tantra 2, Mitralabha (Ryder 1925, Internet Archive)"
+      },
+      {
+        "id": "yudhishthira-welcomes-his-elder-king",
+        "title": "Yudhishthira Welcomes His Elder King",
+        "source": "Mahabharata — Ashramavasa Parva (Wikipedia overview)"
+      },
+      {
+        "id": "a-young-king-welcomes-the-sage",
+        "title": "A Young King Welcomes the Sage",
+        "source": "Srimad-Bhagavatam — Canto 7, Chapter 1 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "the-vessel-that-never-emptied",
+        "title": "The Vessel That Never Emptied",
+        "source": "Mahabharata — Vana Parva (MN Dutt translation, Wikipedia overview)"
+      },
+      {
+        "id": "honest-hearts-safe-return",
+        "title": "Honest Hearts, Safe Return",
+        "source": "Jataka Tales — Ellen C. Babbitt (1912), Project Gutenberg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "stories": [
+      {
+        "id": "krishna-s-gentle-mission-to-hastinapura",
+        "title": "Krishna's Gentle Mission to Hastinapura",
+        "source": "Mahabharata — Udyoga Parva (Van Buitenen translation, Wikipedia overview)"
+      },
+      {
+        "id": "the-jackal-s-gentle-cleverness",
+        "title": "The Jackal's Gentle Cleverness",
+        "source": "Jataka Tales — Ellen C. Babbitt (1912), Project Gutenberg"
+      },
+      {
+        "id": "the-honest-son-s-golden-reward",
+        "title": "The Honest Son's Golden Reward",
+        "source": "More Jataka Tales — Ellen C. Babbitt (1922), Project Gutenberg"
+      },
+      {
+        "id": "gajendra-s-lotus-call-to-heaven",
+        "title": "Gajendra's Lotus Call to Heaven",
+        "source": "Srimad-Bhagavatam — Canto 8, Chapter 3 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "krishna-lets-his-mother-tie-him",
+        "title": "Krishna Lets His Mother Tie Him",
+        "source": "Srimad-Bhagavatam — Canto 10, Chapters 9-10 (Bhaktivedanta VedaBase)"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-22",
+    "stories": [
+      {
+        "id": "yasoda-s-wonder-in-gokula",
+        "title": "Yasoda's Wonder in Gokula",
+        "source": "Srimad-Bhagavatam — Canto 10, Chapter 8 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "the-lake-of-four-friends",
+        "title": "The Lake of Four Friends",
+        "source": "Hitopadesha — Mitralabha (Arnold trans., Internet Archive)"
+      },
+      {
+        "id": "bharata-carries-rama-s-sandals-home",
+        "title": "Bharata Carries Rama's Sandals Home",
+        "source": "Valmiki Ramayana — Ayodhya Kanda, Sarga 110"
+      },
+      {
+        "id": "the-mouse-maiden-s-hidden-gift",
+        "title": "The Mouse-Maiden's Hidden Gift",
+        "source": "Panchatantra — Tantra 5, Apariksha-karita (Ryder 1925, Internet Archive)"
+      },
+      {
+        "id": "hanuman-s-gift-to-tulsidas",
+        "title": "Hanuman's Gift to Tulsidas",
+        "source": "Tulsidas hagiographic tradition (Bhaktamal and later hagiographies)"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "stories": [
+      {
+        "id": "the-name-that-lifted-ajamila-home",
+        "title": "The Name That Lifted Ajamila Home",
+        "source": "Srimad Bhagavatam · Canto 6, Chapter 1 (Ajamilopakhyana), Bhaktivedanta VedaBase translation"
+      },
+      {
+        "id": "kabandha-lifts-his-curse-in-flame",
+        "title": "Kabandha Lifts His Curse in Flame",
+        "source": "Valmiki Ramayana · Aranya Kanda, Sarga 69-72 (Gita Press translation)"
+      },
+      {
+        "id": "bharata-s-vow-at-chitrakuta",
+        "title": "Bharata's Vow at Chitrakuta",
+        "source": "Valmiki Ramayana · Ayodhya Kanda, Sarga 99 (Gita Press translation)"
+      },
+      {
+        "id": "the-bharunda-birds-lesson",
+        "title": "The Bharunda Birds' Lesson",
+        "source": "Panchatantra · Book 2, 'The Winning of Friends', The Bharunda Birds — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "jambu-the-parrot-s-gentle-wisdom",
+        "title": "Jambu the Parrot's Gentle Wisdom",
+        "source": "The Jataka · Vol. V, Tesakuna Jataka (No. 521), E. B. Cowell ed., public domain"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "stories": [
+      {
+        "id": "a-bowl-of-rice-a-half-of-kingdom",
+        "title": "A Bowl of Rice, A Half of Kingdom",
+        "source": "The Jataka · Vol. III, Maha-assaroha Jataka (No. 302) — E. B. Cowell ed., public domain"
+      },
+      {
+        "id": "king-sibi-on-the-scale-of-mercy",
+        "title": "King Sibi on the Scale of Mercy",
+        "source": "Mahabharata · Vana Parva, Tirtha-yatra Parva (Kisari Mohan Ganguli translation)"
+      },
+      {
+        "id": "the-king-whose-jasmine-found-the-himalayas",
+        "title": "The King Whose Jasmine Found the Himalayas",
+        "source": "The Jataka · Vol. III, Aditta-Jataka (No. 424), E. B. Cowell ed., public domain"
+      },
+      {
+        "id": "the-brave-guardian-mongoose",
+        "title": "The Brave Guardian Mongoose",
+        "source": "Panchatantra · Tantra 4 (Vira Mitra / 'Loss of Friends'), 'The Brahmin and the Mongoose', Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "flowers-for-the-virtuous-heart",
+        "title": "Flowers for the Virtuous Heart",
+        "source": "The Jataka · Vol. V, Kurudhamma Jataka (No. 276), E. B. Cowell ed., public domain"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "stories": [
+      {
+        "id": "rama-blesses-the-bhil-hunter",
+        "title": "Rama Blesses the Bhil Hunter",
+        "source": "Valmiki Ramayana · Aranya Kanda, Sarga 69 (Gita Press translation)"
+      },
+      {
+        "id": "prithu-chases-the-wandering-cow",
+        "title": "Prithu Chases the Wandering Cow",
+        "source": "Srimad Bhagavatam · Canto 4, Chapter 18 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "shade-of-the-sacred-trees",
+        "title": "Shade of the Sacred Trees",
+        "source": "Srimad Bhagavatam · Canto 10, Chapter 22 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "the-king-whose-calm-won-freedom",
+        "title": "The King Whose Calm Won Freedom",
+        "source": "The Jataka · Vol. III, Ekaraja Jataka (No. 303) — E. B. Cowell ed., public domain"
+      },
+      {
+        "id": "mother-shandili-s-gentle-welcome",
+        "title": "Mother Shandili's Gentle Welcome",
+        "source": "Panchatantra · Book 2, 'The Winning of Friends', Mother Shandili's Bargain — Arthur W. Ryder translation (1925), Internet Archive"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-15",
+    "stories": [
+      {
+        "id": "narada-s-gentle-lesson",
+        "title": "Narada's Gentle Lesson",
+        "source": "Srimad Bhagavatam · Canto 5, Chapter 1 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "the-little-dove-s-wisdom",
+        "title": "The Little Dove's Wisdom",
+        "source": "Panchatantra · Tantra 3 (Crows and Owls), 'The Self-Sacrificing Dove' — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "the-king-who-hushed-the-night",
+        "title": "The King Who Hushed the Night",
+        "source": "The Jataka · Vol. III, Lohakumbhi Jataka (No. 314) — E. B. Cowell ed., public domain"
+      },
+      {
+        "id": "the-doors-that-opened-for-mira",
+        "title": "The Doors That Opened for Mira",
+        "source": "Mirabai hagiographic tradition; see J. N. Bhatt, 'Meerabai' (Hindi), and Parita Mukta's English retelling, with reference to the Rajasthan and Vrindavan oral traditions"
+      },
+      {
+        "id": "wings-over-the-hundred-leagues",
+        "title": "Wings Over the Hundred Leagues",
+        "source": "Valmiki Ramayana · Sundara Kanda, Sarga 60 (Gita Press translation)"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-09",
+    "stories": [
+      {
+        "id": "a-name-that-saves-at-last",
+        "title": "A Name That Saves at Last",
+        "source": "Srimad-Bhagavatam · Canto 6, Chapter 1 (Bhaktivedanta VedaBase)"
+      },
+      {
+        "id": "four-friends-who-set-each-other-free",
+        "title": "Four Friends Who Set Each Other Free",
+        "source": "Panchatantra · Tantra 1 (Mitra Bheda), Ryder 1925"
+      },
+      {
+        "id": "a-king-heals-with-wisdom",
+        "title": "A King Heals With Wisdom",
+        "source": "Mahabharata · Vana Parva, Tirtha-yatra Parva (Ganguli translation)"
+      },
+      {
+        "id": "savitri-s-bright-devotion",
+        "title": "Savitri's Bright Devotion",
+        "source": "Mahabharata · Vana Parva, Savitri-Upakhyana (Ganguli translation)"
+      },
+      {
+        "id": "lesson-of-the-loving-mongoose",
+        "title": "Lesson of the Loving Mongoose",
+        "source": "Panchatantra · Tantra 4 (Vira Mitra), Ryder 1925"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "stories": [
+      {
+        "id": "bharata-s-sandals-on-the-throne",
+        "title": "Bharata's Sandals on the Throne",
+        "source": "Valmiki Ramayana · Aranya Kanda, Sarga 70 (Gita Press translation)"
+      },
+      {
+        "id": "the-monkey-s-quick-heart",
+        "title": "The Monkey's Quick Heart",
+        "source": "Panchatantra · Tantra 1 (Mitra Bheda), Ryder 1925"
+      },
+      {
+        "id": "the-blue-jackal-s-brief-crown",
+        "title": "The Blue Jackal's Brief Crown",
+        "source": "Panchatantra · Tantra 5 (Aparīksitakāraka), Ryder 1925"
+      },
+      {
+        "id": "agni-returns-sita-and-the-bow",
+        "title": "Agni Returns Sita and the Bow",
+        "source": "Valmiki Ramayana · Yuddha Kanda, Sarga 100 (Gita Press translation)"
+      },
+      {
+        "id": "ahalya-blooms-from-stone",
+        "title": "Ahalya Blooms From Stone",
+        "source": "Valmiki Ramayana · Bala Kanda, Sarga 49 (Gita Press translation)"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "stories": [
+      {
+        "id": "lakshmana-receives-his-gifts",
+        "title": "Lakshmana Receives His Gifts",
+        "source": "Valmiki Ramayana · Aranya Kanda, Sarga 11 (Gita Press translation)"
+      },
+      {
+        "id": "the-snake-who-became-a-friend",
+        "title": "The Snake Who Became a Friend",
+        "source": "The Jataka, Vol. II (E. B. Cowell ed., 1895), No. 173 · Nakulapita Jataka"
+      },
+      {
+        "id": "the-faithful-guardian-mongoose",
+        "title": "The Faithful Guardian Mongoose",
+        "source": "The Jataka, Vol. III (E. B. Cowell ed., 1897), No. 373 · Mongoose Jataka"
+      },
+      {
+        "id": "king-shibi-s-unflinching-gift",
+        "title": "King Shibi's Unflinching Gift",
+        "source": "Mahabharata · Vana Parva, Tirtha-yatra (Ganguli translation)"
+      },
+      {
+        "id": "sixteen-forever-in-markandeya-s-arms",
+        "title": "Sixteen Forever, in Markandeya's Arms",
+        "source": "Srimad-Bhagavatam · Canto 12, Chapter 9 (Bhaktivedanta VedaBase)"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "stories": [
+      {
+        "id": "the-wisdom-of-mah-ummagga",
+        "title": "The Wisdom of Mahā-Ummagga",
+        "source": "Mahā-Ummagga-Jātaka (No. 546), The Jataka, Vol. VI, tr. E. B. Cowell and W. H. D. Rouse (1907)"
+      },
+      {
+        "id": "the-gift-that-brought-them-home",
+        "title": "The Gift That Brought Them Home",
+        "source": "Vessantara-Jātaka (No. 547), The Jataka, Vol. VI, tr. E. B. Cowell and W. H. D. Rouse (1907)"
+      },
+      {
+        "id": "wisdom-wins-the-day",
+        "title": "Wisdom Wins the Day",
+        "source": "Vidhurapaṇḍita-Jātaka (No. 545), The Jataka, Vol. VI, tr. E. B. Cowell and W. H. D. Rouse (1907)"
+      },
+      {
+        "id": "rama-pandita-s-calm-return-home",
+        "title": "Rama-pandita's Calm Return Home",
+        "source": "Dasharatha Jataka (No. 461), The Jataka, Vol. IV, tr. W. H. D. Rouse (Cowell ed., 1901)"
+      },
+      {
+        "id": "prince-ghata-s-light-in-prison",
+        "title": "Prince Ghata's Light in Prison",
+        "source": "Ghata-Jātaka (No. 355), The Jataka, Vol. III, tr. H. T. Francis and R. A. Neil (Cowell ed., 1897)"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "stories": [
+      {
+        "id": "blackie-brings-silver-home",
+        "title": "Blackie Brings Silver Home",
+        "source": "Jataka Tales (Ellen C. Babbitt, 1912) — Project Gutenberg #62514, Story XVI"
+      },
+      {
+        "id": "the-elephant-who-remembered-kindness",
+        "title": "The Elephant Who Remembered Kindness",
+        "source": "Jataka Tales (Ellen C. Babbitt, 1912) — Project Gutenberg #62514, Story XIV"
+      },
+      {
+        "id": "red-face-s-quick-bright-heart",
+        "title": "Red-Face's Quick Bright Heart",
+        "source": "Panchatantra · Book 4 (Labdhapranaasha), frame tale"
+      },
+      {
+        "id": "a-bow-a-bride-a-blessing",
+        "title": "A Bow, A Bride, A Blessing",
+        "source": "Valmiki Ramayana — Bala Kanda (Gita Press translation)"
+      },
+      {
+        "id": "savitri-walks-with-yama",
+        "title": "Savitri Walks with Yama",
+        "source": "Mahabharata · Vana Parva, Pativrata-mahatmya (sections CCLXLIV–CCXLVII)"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "stories": [
+      {
+        "id": "the-four-friends-of-the-island",
+        "title": "The Four Friends of the Island",
+        "source": "More Jataka Tales (Ellen C. Babbitt, 1922) — Project Gutenberg #7518, Story XIII"
+      },
+      {
+        "id": "four-visits-one-tree",
+        "title": "Four Visits, One Tree",
+        "source": "More Jataka Tales (Ellen C. Babbitt, 1922) — Project Gutenberg #7518, Story IX"
+      },
+      {
+        "id": "the-clever-old-goat-s-triumph",
+        "title": "The Clever Old Goat's Triumph",
+        "source": "More Jataka Tales (Ellen C. Babbitt, 1922) — Project Gutenberg #7518, Story XVIII"
+      },
+      {
+        "id": "the-ox-and-the-hundred-wagons",
+        "title": "The Ox and the Hundred Wagons",
+        "source": "Jataka Tales (Ellen C. Babbitt, 1912) — Project Gutenberg #62514, Story V"
+      },
+      {
+        "id": "beauty-s-careful-herd-returns-whole",
+        "title": "Beauty's Careful Herd Returns Whole",
+        "source": "More Jataka Tales (Ellen C. Babbitt, 1922) — Project Gutenberg #7518, Story XX"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "stories": [
+      {
+        "id": "ambarisha-s-unshaken-heart",
+        "title": "Ambarisha's Unshaken Heart",
+        "source": "Srimad-Bhagavatam — Canto 9, Chapter 4, Bhaktivedanta VedaBase"
+      },
+      {
+        "id": "prahlada-s-quiet-faith-triumphs",
+        "title": "Prahlada's Quiet Faith Triumphs",
+        "source": "Srimad-Bhagavatam — Canto 7, Bhaktivedanta VedaBase"
+      },
+      {
+        "id": "sixteen-forever-held-in-light",
+        "title": "Sixteen Forever, Held in Light",
+        "source": "Srimad-Bhagavatam — Canto 12, Chapter 9 (Markandeya and Yama)"
+      },
+      {
+        "id": "the-squirrel-at-rama-s-bridge",
+        "title": "The Squirrel at Rama's Bridge",
+        "source": "Valmiki Ramayana — Yuddha Kanda, Sarga 4 (popular tradition; see also Valmiki Ramayana, Kishkindha Kanda background)"
+      },
+      {
+        "id": "the-king-who-weighed-himself-for-a-dove",
+        "title": "The King Who Weighed Himself for a Dove",
+        "source": "Sibi Jataka, The Jataka, vol. IV, E. B. Cowell (ed.), 1901"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "stories": [
+      {
+        "id": "the-cave-that-spoke-first",
+        "title": "The Cave That Spoke First",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "hope-finds-its-way-home",
+        "title": "Hope Finds Its Way Home",
+        "source": "Mahabharata — Vana Parva, Kisari Mohan Ganguli translation"
+      },
+      {
+        "id": "three-friends-by-the-lake",
+        "title": "Three Friends by the Lake",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "savitri-s-courage-wins-back-satyavan",
+        "title": "Savitri's Courage Wins Back Satyavan",
+        "source": "Mahabharata — Vana Parva, Kisari Mohan Ganguli translation"
+      },
+      {
+        "id": "ahalya-rises-at-rama-s-touch",
+        "title": "Ahalya Rises at Rama's Touch",
+        "source": "Valmiki Ramayana — Bala Kanda (Gita Press translation)"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "stories": [
+      {
+        "id": "tukaram-s-gentle-sugarcane",
+        "title": "Tukaram's Gentle Sugarcane",
+        "source": "Tukaram hagiographic tradition"
+      },
+      {
+        "id": "the-hare-who-became-the-moon",
+        "title": "The Hare Who Became the Moon",
+        "source": "Sasa Jataka, The Jataka, vol. III, E. B. Cowell edition (public domain)"
+      },
+      {
+        "id": "the-turtle-who-tricked-the-boys",
+        "title": "The Turtle Who Tricked the Boys",
+        "source": "Jataka Tales — Ellen C. Babbitt (1912), Project Gutenberg"
+      },
+      {
+        "id": "the-quiet-wisdom-of-the-old-gander",
+        "title": "The Quiet Wisdom of the Old Gander",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "the-brave-little-bowman",
+        "title": "The Brave Little Bowman",
+        "source": "More Jataka Tales — Ellen C. Babbitt (1922), Project Gutenberg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-21",
+    "stories": [
+      {
+        "id": "the-wise-merchant-s-careful-journey",
+        "title": "The Wise Merchant's Careful Journey",
+        "source": "Jataka Tales — Ellen C. Babbitt (1912), Project Gutenberg"
+      },
+      {
+        "id": "the-golden-deer-king-steps-forward",
+        "title": "The Golden Deer King Steps Forward",
+        "source": "Nigrodhamiga Jataka, The Jataka, vol. I, E. B. Cowell edition (public domain)"
+      },
+      {
+        "id": "three-friends-one-brave-rescue",
+        "title": "Three Friends, One Brave Rescue",
+        "source": "More Jataka Tales — Ellen C. Babbitt (1922), Project Gutenberg"
+      },
+      {
+        "id": "the-golden-dish-of-seri",
+        "title": "The Golden Dish of Seri",
+        "source": "Jataka Tales — Ellen C. Babbitt (1912), Project Gutenberg"
+      },
+      {
+        "id": "the-bridge-of-the-monkey-king",
+        "title": "The Bridge of the Monkey King",
+        "source": "More Jataka Tales — Ellen C. Babbitt (1922), Project Gutenberg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "stories": [
+      {
+        "id": "water-toward-the-punjab-fields",
+        "title": "Water Toward the Punjab Fields",
+        "source": "Janamsakhi tradition; M. A. Macauliffe, The Sikh Religion, vol. I (1909, public domain)"
+      },
+      {
+        "id": "mice-and-elephants-remember-kindness",
+        "title": "Mice and Elephants Remember Kindness",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "three-fishes-of-the-quiet-pond",
+        "title": "Three Fishes of the Quiet Pond",
+        "source": "More Jataka Tales — Ellen C. Babbitt (1922), Project Gutenberg"
+      },
+      {
+        "id": "the-road-builders-of-magha",
+        "title": "The Road-Builders of Magha",
+        "source": "Kulavaka Jataka, The Jataka, vol. I, E. B. Cowell edition (public domain)"
+      },
+      {
+        "id": "the-true-bargain-of-young-nanak",
+        "title": "The True Bargain of Young Nanak",
+        "source": "Janamsakhi tradition; M. A. Macauliffe, The Sikh Religion, vol. I (1909, public domain)"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "stories": [
+      {
+        "id": "sama-and-the-arrow-s-gentle-turn",
+        "title": "Sama and the Arrow's Gentle Turn",
+        "source": "Sama Jataka, The Jataka, vol. VI, E. B. Cowell edition (public domain)"
+      },
+      {
+        "id": "the-monk-who-came-home",
+        "title": "The Monk Who Came Home",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "the-small-truth-that-stilled-the-flames",
+        "title": "The Small Truth That Stilled the Flames",
+        "source": "Jataka Tales · Quail Jataka"
+      },
+      {
+        "id": "the-little-quail-s-truth",
+        "title": "The Little Quail's Truth",
+        "source": "Vattaka Jataka, The Jataka, vol. I, E. B. Cowell edition (public domain)"
+      },
+      {
+        "id": "the-earrings-returned-home",
+        "title": "The Earrings Returned Home",
+        "source": "Mahabharata — Adi Parva, Kisari Mohan Ganguli translation"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-16",
+    "stories": [
+      {
+        "id": "the-monkey-s-quick-heart",
+        "title": "The Monkey's Quick Heart",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "milk-from-lalo-s-bread",
+        "title": "Milk from Lalo's Bread",
+        "source": "Janamsakhi tradition; M. A. Macauliffe, The Sikh Religion, vol. I (1909, public domain)"
+      },
+      {
+        "id": "shelter-beneath-govardhana",
+        "title": "Shelter Beneath Govardhana",
+        "source": "Srimad-Bhagavatam — Canto 10, Bhaktivedanta VedaBase"
+      },
+      {
+        "id": "the-yaksha-s-gentle-blessing",
+        "title": "The Yaksha's Gentle Blessing",
+        "source": "Mahabharata · Vana Parva, Yaksha Prashna"
+      },
+      {
+        "id": "two-caravans-in-the-desert",
+        "title": "Two Caravans in the Desert",
+        "source": "Jataka Tales — Ellen C. Babbitt (1912), Project Gutenberg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "stories": [
+      {
+        "id": "loyal-hearts-a-deer-set-free",
+        "title": "Loyal Hearts, A Deer Set Free",
+        "source": "Rohantamiga Jataka, The Jataka, vol. IV, E. B. Cowell edition (public domain)"
+      },
+      {
+        "id": "rama-guards-the-sacred-fire",
+        "title": "Rama Guards the Sacred Fire",
+        "source": "Valmiki Ramayana — Bala Kanda (Gita Press translation)"
+      },
+      {
+        "id": "the-bridge-of-the-monkey-king",
+        "title": "The Bridge of the Monkey King",
+        "source": "Mahakapi Jataka, The Jataka, vol. V, H. T. Francis translation (public domain)"
+      },
+      {
+        "id": "a-deer-steps-forward-in-love",
+        "title": "A Deer Steps Forward in Love",
+        "source": "Jataka Tales — Ellen C. Babbitt (1912), Project Gutenberg"
+      },
+      {
+        "id": "the-rabbit-who-heard-the-palm",
+        "title": "The Rabbit Who Heard the Palm",
+        "source": "Jataka Tales — Ellen C. Babbitt (1912), Project Gutenberg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "stories": [
+      {
+        "id": "the-prince-who-chose-kindness",
+        "title": "The Prince Who Chose Kindness",
+        "source": "Jataka Tales — Ellen C. Babbitt (1912), Project Gutenberg"
+      },
+      {
+        "id": "the-net-lifted-together",
+        "title": "The Net Lifted Together",
+        "source": "Panchatantra · Book 2, The Winning of Friends"
+      },
+      {
+        "id": "a-moonlit-promise-for-the-rabbits",
+        "title": "A Moonlit Promise for the Rabbits",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "kanakadas-and-the-udupi-window",
+        "title": "Kanakadas and the Udupi Window",
+        "source": "Kanakadas hagiographic tradition"
+      },
+      {
+        "id": "the-geese-who-returned-home",
+        "title": "The Geese Who Returned Home",
+        "source": "Mahahamsa Jataka, The Jataka, vol. V, H. T. Francis translation (public domain)"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "stories": [
+      {
+        "id": "a-promise-measured-in-three-steps",
+        "title": "A Promise Measured in Three Steps",
+        "source": "Srimad-Bhagavatam — Canto 8, Bhaktivedanta VedaBase"
+      },
+      {
+        "id": "a-friend-s-welcome-at-dvaraka",
+        "title": "A Friend's Welcome at Dvaraka",
+        "source": "Srimad-Bhagavatam — Canto 10, Bhaktivedanta VedaBase"
+      },
+      {
+        "id": "krishna-lifts-kaliya-s-burden",
+        "title": "Krishna Lifts Kaliya's Burden",
+        "source": "Srimad-Bhagavatam — Canto 10, Bhaktivedanta VedaBase"
+      },
+      {
+        "id": "the-jackal-who-found-his-meal",
+        "title": "The Jackal Who Found His Meal",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "the-ascetic-s-gentle-treasure",
+        "title": "The Ascetic's Gentle Treasure",
+        "source": "Mahakanha Jataka, The Jataka, vol. IV, E. B. Cowell edition (public domain)"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "stories": [
+      {
+        "id": "a-boatman-s-gift-across-the-ganga",
+        "title": "A Boatman's Gift Across the Ganga",
+        "source": "Ramayana · Ayodhya Kanda"
+      },
+      {
+        "id": "small-friends-steady-hearts",
+        "title": "Small Friends, Steady Hearts",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "a-prince-s-steady-heart",
+        "title": "A Prince's Steady Heart",
+        "source": "Srimad-Bhagavatam — Canto 4, Bhaktivedanta VedaBase"
+      },
+      {
+        "id": "hanuman-brings-the-healing-mountain",
+        "title": "Hanuman Brings the Healing Mountain",
+        "source": "Valmiki Ramayana — Yuddha Kanda (Gita Press translation)"
+      },
+      {
+        "id": "the-wise-merchant-of-the-wilderness",
+        "title": "The Wise Merchant of the Wilderness",
+        "source": "Apannaka Jataka, The Jataka, vol. I, E. B. Cowell edition (public domain)"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "stories": [
+      {
+        "id": "refuge-on-the-shore-of-compassion",
+        "title": "Refuge on the Shore of Compassion",
+        "source": "Valmiki Ramayana — Yuddha Kanda (Gita Press translation)"
+      },
+      {
+        "id": "kishkindha-welcomes-its-king-again",
+        "title": "Kishkindha Welcomes Its King Again",
+        "source": "Valmiki Ramayana — Kishkindha Kanda (Gita Press translation)"
+      },
+      {
+        "id": "the-note-honored-in-dwarka",
+        "title": "The Note Honored in Dwarka",
+        "source": "Narsinh Mehta hagiographic tradition"
+      },
+      {
+        "id": "bhima-finds-his-elder-brother",
+        "title": "Bhima Finds His Elder Brother",
+        "source": "Mahabharata — Vana Parva, Kisari Mohan Ganguli translation"
+      },
+      {
+        "id": "hanuman-finds-sita",
+        "title": "Hanuman Finds Sita",
+        "source": "Ramayana · Sundara Kanda"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-09",
+    "stories": [
+      {
+        "id": "a-friend-s-quiet-grace",
+        "title": "A Friend's Quiet Grace",
+        "source": "Bhagavata Purana · Book 10"
+      },
+      {
+        "id": "a-saint-s-bowl-of-ghee",
+        "title": "A Saint's Bowl of Ghee",
+        "source": "Namdev hagiographic tradition"
+      },
+      {
+        "id": "the-king-who-saw-the-quiet-lake",
+        "title": "The King Who Saw the Quiet Lake",
+        "source": "Nalapana Jataka, The Jataka, vol. I, E. B. Cowell edition (public domain)"
+      },
+      {
+        "id": "the-monkey-s-gentle-escape",
+        "title": "The Monkey's Gentle Escape",
+        "source": "Jataka Tales — Ellen C. Babbitt (1912), Project Gutenberg"
+      },
+      {
+        "id": "arjuna-earns-shiva-s-blessing",
+        "title": "Arjuna Earns Shiva's Blessing",
+        "source": "Mahabharata — Vana Parva, Kisari Mohan Ganguli translation"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "stories": [
+      {
+        "id": "shabari-s-patient-welcome-for-rama",
+        "title": "Shabari's Patient Welcome for Rama",
+        "source": "Valmiki Ramayana · Aranya Kanda, Sarga 74"
+      },
+      {
+        "id": "tiny-wings-mighty-heart",
+        "title": "Tiny Wings, Mighty Heart",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "the-miser-who-learned-to-give",
+        "title": "The Miser Who Learned to Give",
+        "source": "Illisa Jataka, The Jataka, vol. II, E. B. Cowell edition (public domain)"
+      },
+      {
+        "id": "the-dog-who-found-home-again",
+        "title": "The Dog Who Found Home Again",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "the-mouse-maid-finds-home",
+        "title": "The Mouse-Maid Finds Home",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "stories": [
+      {
+        "id": "the-princess-of-three-breasts",
+        "title": "The Princess of Three Breasts",
+        "source": "Panchatantra — Arthur W. Ryder translation (1925), Internet Archive"
+      },
+      {
+        "id": "the-elephant-s-friend-returns-home",
+        "title": "The Elephant's Friend Returns Home",
+        "source": "More Jataka Tales — Ellen C. Babbitt (1922), Project Gutenberg"
+      },
+      {
+        "id": "two-souls-released-by-one-cry",
+        "title": "Two Souls Released by One Cry",
+        "source": "Srimad-Bhagavatam — Canto 8, Bhaktivedanta VedaBase"
+      },
+      {
+        "id": "a-garland-in-the-hall-of-drupada",
+        "title": "A Garland in the Hall of Drupada",
+        "source": "Mahabharata — Adi Parva, Kisari Mohan Ganguli translation"
+      },
+      {
+        "id": "yudhishthira-answers-the-yaksha",
+        "title": "Yudhishthira Answers the Yaksha",
+        "source": "Mahabharata — Vana Parva, Kisari Mohan Ganguli translation"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "stories": [
+      {
+        "id": "the-golden-deer-s-gift",
+        "title": "The Golden Deer's Gift",
+        "source": "Jataka Tales · Banyan Deer Jataka"
+      },
+      {
+        "id": "dhruva-s-steady-heart",
+        "title": "Dhruva's Steady Heart",
+        "source": "Bhagavata Purana · Book 4"
+      },
+      {
+        "id": "the-deer-who-carried-hope",
+        "title": "The Deer Who Carried Hope",
+        "source": "Jataka Tales · Ruru Deer Jataka"
+      },
+      {
+        "id": "rantideva-s-cup-of-water",
+        "title": "Rantideva's Cup of Water",
+        "source": "Bhagavata Purana · Book 9"
+      },
+      {
+        "id": "gajendra-s-lotus-and-the-swift-rescue",
+        "title": "Gajendra's Lotus and the Swift Rescue",
+        "source": "Bhagavata Purana · Book 8"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "stories": [
+      {
+        "id": "the-bell",
+        "title": "The Bell at the Temple Gate",
+        "source": "Hermes · after a Vedic reading"
+      },
+      {
+        "id": "the-river",
+        "title": "The River Does Not Remember the Stone",
+        "source": "Hermes"
+      },
+      {
+        "id": "the-teacher",
+        "title": "The Teacher Who Forgot His Own Lesson",
+        "source": "Hermes · after a reading of the Upanishads"
+      },
+      {
+        "id": "the-mountain",
+        "title": "The Mountain and the Small Hill",
+        "source": "Hermes"
+      },
+      {
+        "id": "the-mother",
+        "title": "What My Mother Said on Slow Afternoons",
+        "source": "Hermes"
+      }
+    ]
+  }
+]

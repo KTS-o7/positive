@@ -114,6 +114,80 @@
     main.appendChild(div);
   }
 
+  var MONTHS = ["January","February","March","April","May","June",
+                "July","August","September","October","November","December"];
+  function fmtDate(iso) {
+    var d = new Date(iso + "T00:00:00Z");
+    return isNaN(d) ? iso : MONTHS[d.getUTCMonth()] + " " + d.getUTCDate() + ", " + d.getUTCFullYear();
+  }
+
+  /* -------- paused mode: list of past editions -------- */
+  function renderEditions(editions) {
+    var main = $("#stories");
+    if (!main) return;
+    main.innerHTML = "";
+    var list = document.createElement("div");
+    list.className = "editions";
+    editions.forEach(function (ed) {
+      var block = document.createElement("section");
+      block.className = "edition";
+      var h = document.createElement("h3");
+      var a = document.createElement("a");
+      a.href = "?date=" + ed.date;
+      a.textContent = fmtDate(ed.date);
+      h.appendChild(a);
+      block.appendChild(h);
+      var ul = document.createElement("ul");
+      (ed.stories || []).forEach(function (s) {
+        var li = document.createElement("li");
+        var sa = document.createElement("a");
+        sa.href = "?date=" + ed.date + "#" + encodeURIComponent(s.id || "");
+        sa.textContent = s.title || "(untitled)";
+        li.appendChild(sa);
+        if (s.source) {
+          var src = document.createElement("span");
+          src.className = "src";
+          src.textContent = s.source;
+          li.appendChild(src);
+        }
+        ul.appendChild(li);
+      });
+      block.appendChild(ul);
+      list.appendChild(block);
+    });
+    main.appendChild(list);
+  }
+
+  /* -------- single edition, opened from the list -------- */
+  function renderOneEdition(d, date) {
+    renderSite(d);
+    var notice = $("#paused");
+    if (notice) notice.style.display = "none";
+    var main = $("#stories");
+    var bar = document.createElement("div");
+    bar.className = "edition-bar";
+    var back = document.createElement("a");
+    back.href = "./";
+    back.textContent = "← All editions";
+    var when = document.createElement("span");
+    when.textContent = fmtDate(date);
+    bar.appendChild(back);
+    bar.appendChild(when);
+    main.insertBefore(bar, main.firstChild);
+    if (location.hash) {
+      var target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+      /* After layout settles, and instant: the page-wide smooth scroll gets cut short while rendering. */
+      if (target) setTimeout(function () { target.scrollIntoView({ behavior: "instant", block: "start" }); }, 60);
+    }
+  }
+
+  function getJSON(url) {
+    return fetch(url, { cache: "no-store" }).then(function (r) {
+      if (!r.ok) throw new Error(url + " HTTP " + r.status);
+      return r.json();
+    });
+  }
+
   function boot() {
     var stored = getStoredTheme();
     applyTheme(stored || "light");
@@ -121,21 +195,22 @@
     var toggle = $(".theme-toggle");
     if (toggle) toggle.addEventListener("click", toggleTheme);
 
-    /* New editions publish to latest.json. Keep stories.json as a durable
-       fallback: a failed or interrupted publish should never blank the site. */
-    fetch("data/latest.json", { cache: "no-store" })
-      .then(function (r) {
-        if (!r.ok) throw new Error("latest HTTP " + r.status);
-        return r.json();
-      })
+    var m = location.search.match(/[?&]date=(\d{4}-\d{2}-\d{2})/);
+    if (m) {
+      getJSON("data/" + m[1] + ".json")
+        .then(function (d) { renderOneEdition(d, m[1]); })
+        .catch(function (e) { showError("Could not load that edition: " + e.message); });
+      return;
+    }
+    /* Paused: show every past edition. Fall back to the last edition, then the seed set,
+       so a missing index never blanks the site. */
+    getJSON("data/editions.json")
+      .then(renderEditions)
       .catch(function () {
-        return fetch("data/stories.json", { cache: "no-store" })
-          .then(function (r) {
-            if (!r.ok) throw new Error("fallback HTTP " + r.status);
-            return r.json();
-          });
+        return getJSON("data/latest.json")
+          .catch(function () { return getJSON("data/stories.json"); })
+          .then(renderSite);
       })
-      .then(renderSite)
       .catch(function (e) { showError("Could not load stories: " + e.message); });
   }
 

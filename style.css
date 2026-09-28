@@ -77,6 +77,24 @@ font-weight:600;font-size:clamp(26px,4.4vw,34px);line-height:1.2;letter-spacing:
 .story .body p:first-of-type::first-letter{font-size:1.05em;font-weight:600;color:var(--ac)}
 .story .body p:last-of-type{margin-bottom:0}
 
+/* paused notice + edition list */
+.notice{margin:0 auto 12px;padding:22px 26px;border:1px solid var(--rule);border-radius:6px;
+background:var(--paper2);color:var(--mut);font-size:16px;line-height:1.65}
+.notice p{margin:0 0 .7em}
+.notice p:last-child{margin-bottom:0}
+.notice .notice-label{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--ac);font-weight:600}
+.editions{padding-top:12px}
+.edition{padding:26px 0;border-top:1px solid var(--rule)}
+.edition h3{margin:0 0 12px;font-size:20px;font-weight:600}
+.edition h3 a{color:var(--ink)}
+.edition ul{list-style:none;margin:0;padding:0}
+.edition li{margin:0 0 10px;line-height:1.45}
+.edition li a{color:var(--ln)}
+.edition li .src{display:block;font-size:13px;font-style:italic;color:var(--mut2)}
+.edition-bar{display:flex;justify-content:space-between;align-items:center;padding:18px 0 4px;
+font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--mut2)}
+.story{scroll-margin-top:60px}
+
 /* footer */
 .foot{padding:60px 28px 80px;border-top:1px solid var(--rule);margin-top:48px;
 font-size:12px;color:var(--mut2);text-align:center;letter-spacing:.06em;line-height:1.8}
